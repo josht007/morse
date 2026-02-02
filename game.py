@@ -70,7 +70,7 @@ def main() -> None:
         final = add_oga(upu)
         print("Final:", final)
     else:
-        print('Usage: python comp3007_w26_101299524_assignment_01_game.py "single word"')
+        print('Usage: python game.py "single word"')
 
 if __name__ == "__main__":
     main()
